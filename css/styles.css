@@ -1,0 +1,98 @@
+body {
+  margin : 0;
+  text-align: center;
+
+  font-family: 'Merriweather', serif;
+}
+h1 {
+  margin-top: 0;
+  font-family: 'Courgette', sans-serif;
+  font-size: 3rem;
+  padding-top: 50px;
+  margin: 0 auto 0 auto;
+  color: #66BFBF;
+}
+h2 {
+  margin-top: 0;
+  padding-top: 30px;
+  font-size: 1.2rem;
+  color: #66BFBF;
+
+}
+hr{
+
+  border: dotted #cdc9c3 6px;
+  border-bottom: none;
+  width: 4%;
+  margin : 30px auto;
+}
+p{
+  font-size: 1.1rem;
+  color: #11999E;
+}
+h3{
+  color:#11999E;
+  font-size: 2rem;
+}
+.title {
+  background-color :#ffffdd;
+  margin:  0;
+
+  height: 350px;
+  width :100%;
+
+}
+/* .lego{
+  position:relative;
+  top: 50px;
+
+
+  margin-bottom: 0;
+
+} */
+
+
+.skills{
+  background-color: #cedebd;
+  height: 1250px;
+  margin : 0;
+  padding-top : 50px;
+}
+
+
+
+
+
+
+.waterdrop1 {
+  position:absolute;
+  left: 1500px;
+  top : 1100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.waterdrop2{
+  position: absolute;
+  left:200px;
+  bottom : 150px;
+
+}
+.contact{
+  background-color: #fbe2e5;
+  height:550px;
+
+}
